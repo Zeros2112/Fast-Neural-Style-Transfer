@@ -30,10 +30,6 @@ Neural style transfer is a technique that applies the artistic style of one imag
 - Backend Server: Utilize Flask to handle image uploads and serve the stylized results.
 - Customizable: Easily extend or modify the code for your specific needs.
 
-## Demo
-
-[Include a link or GIF demonstrating how the application works.]
-
 ## Getting Started
 
 ### Prerequisites
